@@ -31,10 +31,8 @@ se pueda encontrar, ademas de ayudar a nosotros mismo a conocer un poco mejor nu
 
 | Id | Componente                       | Descripción                                                                                                                                                                                                                                                                         | Imagen | Cantidad | Costo Total |
 |----|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------|-------------|
-| 1  | ESP32                            | El módulo ESP32 es una solución de  Wi-Fi/Bluetooth todo en uno, integrada  y certificada que proporciona no solo  la radio inalámbrica, sino también un  procesador integrado con interfaces para  conectarse con varios periféricos.                                              |    ![image](https://user-images.githubusercontent.com/84553507/193391219-95d58e37-017f-458c-8087-43390e012900.png)
-    | 1        | $150.00     |
-| 2  | Sensor de  temperatura y humedad | El DHT22 (AM2302) es un sensor digital de  temperatura y humedad relativa de buen  rendimiento y bajo costo. Integra un sensor  capacitivo de humedad y un termistor para  medir el aire circundante, y muestra los  datos mediante una señal digital en el pin de datos.           |    ![image](https://user-images.githubusercontent.com/84553507/193391423-11cc47ae-ddaf-4d86-b5d3-3e1938a56d48.png)
-    | 1        | $136.00     |
+| 1  | ESP32                            | El módulo ESP32 es una solución de  Wi-Fi/Bluetooth todo en uno, integrada  y certificada que proporciona no solo  la radio inalámbrica, sino también un  procesador integrado con interfaces para  conectarse con varios periféricos.                                              |        | 1        | $150.00     |
+| 2  | Sensor de  temperatura y humedad | El DHT22 (AM2302) es un sensor digital de  temperatura y humedad relativa de buen  rendimiento y bajo costo. Integra un sensor  capacitivo de humedad y un termistor para  medir el aire circundante, y muestra los  datos mediante una señal digital en el pin de datos.           |        | 1        | $136.00     |
 | 3  | Sensor de gas                    |     Este es un sensor de gas metano propano de  hidrógeno, ideal   para la detección de fugas  de gas en el hogar o en la fábrica. Este sensor puede utilizarse para detectar: Gas combustible  como GLP, butano, metano, alcohol, propano,  hidrógeno, humo.                       |        | 1        | $79.50      |
 | 4  | Sensor de llama                  | Este sensor detecta la presencia de llama.  Detecta una llama o una fuente de luz de una  longitud de onda en el rango de 760nm-1100 nm.  Una prueba de llama ligera puede ser activada  dentro de 0.8m. Si la intensidad de la llama es  alta, la distancia de detección aumentará |        | 1        | $50.00      |
 | 5  | GPS                              | El Sistema de Posicionamiento Global (GPS)  es un sistema que permite localizar cualquier  objeto (una persona, un vehículo, etc) sobre la  Tierra con una precisión de hasta centímetros                                                                                           |        | 1        | $201.00     |
@@ -42,3 +40,28 @@ se pueda encontrar, ademas de ayudar a nosotros mismo a conocer un poco mejor nu
 | 7  | Buzzer                           | Un buzzer o zumbador es un dispositivo que es  capaz de enviar avisos a través del sonido. Puede  ser mecánico, electromecánico o piezoeléctrico.                                                                                                                                   |        | 1        | $71.00      |
 | 8  | LCD                              | LCD o pantalla de cristal líquido, está  conformada por un número de píxeles en color  o monocromos colocados delante de una fuente  de luz o reflectora, es delgada y plana.                                                                                                       |        | 1        | $87.00      |
 | 9  | Cámara                           | El sensor de imagen OV7670 cuenta con una  cámara VGA de un solo chip y procesador de  imágenes para todas las funciones.                                                                                                                                                           |        | 1        | $135.00     |
+
+## Epicas del proyecto
+- Quiero poder conocer el ambiente en el que se encuentra mi mascota en caso de que se pierda.
+- Quiero poder saber si mi mascota se encuentra en peligro de intoxicación o si el ambiente que lo rodea hay peligro de una fuga de gas
+- Quiero conocer si mi mascota corre el riesgo de sufrir algun daño por quemadura mientras no me encuentro con el.
+- En caso de perder a mi mascota quiero poder dar con el en tiempo real para ir a buscarlo y alcanzarlo.
+
+## Tabla de historias de usuario
+
+Tabla de historias de usuario
+|Id|Historia de usuario|Prioridad|Estimación|Como probarlo|Responsable|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|Quiero poder conocer el ambiente en el que se encuentra mi mascota en caso de que se pierda.|Alta|3 semanas|Aumentando temperatura y humedad|Erik Daniel Mendez Enriquez|
+| | | | | | |
+|2|Quiero poder saber si mi mascota se encuentra en peligro de intoxicación o si el ambiente que lo rodea hay peligro de una fuga de gas|Alta|2 a 3 semanas|Usando un gas de manera controlada cerca del sensor|Oscar Iván Pérez Mejía|
+| | | | | | |
+|3|Quiero conocer si mi mascota corre el riesgo de sufrir algun daño por quemadura mientras no me encuentro con el.|Alta|3 semanas|Exponiendo el proyecto a una llama controlada|Alyne Elizabeth Rojas Gloria|
+| | | | | | |
+|4|En caso de perder a mi mascota quiero poder dar con el en tiempo real para ir a buscarlo y alcanzarlo.
+ |Alta|4 semanas o más|Desarrollando una aplicación que nos permita probar el sensor GPS|Andrea Trujillo Azpeitia|
+| | | | | | |
+
+## Boceto
+
+![image](https://user-images.githubusercontent.com/84553507/193392187-23cd387b-3375-468c-8c75-f38fdff7a801.png)
