@@ -2,10 +2,10 @@
 
 ## Integrantes
 
-Erik Daniel Méndez Enríquez
-Oscar Ivan Pérez Mejía
-Alyne Elizabeth Rojas Gloria
-Andrea Trujillo Azpeitia
+- Erik Daniel Méndez Enríquez
+- Oscar Ivan Pérez Mejía
+- Alyne Elizabeth Rojas Gloria
+- Andrea Trujillo Azpeitia
 
 ## Objetivo general
 El proyecto que tenemos planeado tiene como objetivo el crear un dispositivo que nos ayude a conocer o advertir el ambiente en el que nuestra mascota se 
