@@ -13,10 +13,10 @@ encuentre tanto si estamos con ella como si no fuera asi, esto para poder cuidar
 se pueda encontrar, ademas de ayudar a nosotros mismo a conocer un poco mejor nuestro ambiente para nuestra propia protección en algunos casos.
 
 ## Objetivos especificos
-Cuidar a nuestra mascota para previnir accidentes
-Tener un control en el monitoreo de nuestra mascota
-Poder conocer aspectos de nuestro entorno para tomar medidas preventivas 
-Recibir información del entorno de nuestra mascota
+- Cuidar a nuestra mascota para previnir accidentes
+- Tener un control en el monitoreo de nuestra mascota
+- Poder conocer aspectos de nuestro entorno para tomar medidas preventivas 
+- Recibir información del entorno de nuestra mascota
 
 ## Tabla de software utilizado
 
