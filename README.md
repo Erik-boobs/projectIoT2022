@@ -1,5 +1,7 @@
 # projectIoT2022
-##Integrantes
+
+## Integrantes
+
 Erik Daniel Méndez Enríquez
 Oscar Ivan Pérez Mejía
 Alyne Elizabeth Rojas Gloria
