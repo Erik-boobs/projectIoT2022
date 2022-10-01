@@ -7,18 +7,18 @@ Oscar Ivan Pérez Mejía
 Alyne Elizabeth Rojas Gloria
 Andrea Trujillo Azpeitia
 
-#Objetivo general
+## Objetivo general
 El proyecto que tenemos planeado tiene como objetivo el crear un dispositivo que nos ayude a conocer o advertir el ambiente en el que nuestra mascota se 
 encuentre tanto si estamos con ella como si no fuera asi, esto para poder cuidar mejor de nuestra  mascota y poder preveer alguna acción riesgosa en la que 
 se pueda encontrar, ademas de ayudar a nosotros mismo a conocer un poco mejor nuestro ambiente para nuestra propia protección en algunos casos.
 
-#Objetivos especificos
+## Objetivos especificos
 Cuidar a nuestra mascota para previnir accidentes
 Tener un control en el monitoreo de nuestra mascota
 Poder conocer aspectos de nuestro entorno para tomar medidas preventivas 
 Recibir información del entorno de nuestra mascota
 
-#Tabla de software utilizado
+## Tabla de software utilizado
 
 | Id | Componente                       | Descripción                                                                                                                                                                                                                                                                         | Imagen | Cantidad | Costo Total |
 |----|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|----------|-------------|
