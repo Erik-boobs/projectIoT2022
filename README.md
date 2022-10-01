@@ -49,18 +49,12 @@ se pueda encontrar, ademas de ayudar a nosotros mismo a conocer un poco mejor nu
 
 ## Tabla de historias de usuario
 
-Tabla de historias de usuario
-|Id|Historia de usuario|Prioridad|Estimación|Como probarlo|Responsable|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|Quiero poder conocer el ambiente en el que se encuentra mi mascota en caso de que se pierda.|Alta|3 semanas|Aumentando temperatura y humedad|Erik Daniel Mendez Enriquez|
-| | | | | | |
-|2|Quiero poder saber si mi mascota se encuentra en peligro de intoxicación o si el ambiente que lo rodea hay peligro de una fuga de gas|Alta|2 a 3 semanas|Usando un gas de manera controlada cerca del sensor|Oscar Iván Pérez Mejía|
-| | | | | | |
-|3|Quiero conocer si mi mascota corre el riesgo de sufrir algun daño por quemadura mientras no me encuentro con el.|Alta|3 semanas|Exponiendo el proyecto a una llama controlada|Alyne Elizabeth Rojas Gloria|
-| | | | | | |
-|4|En caso de perder a mi mascota quiero poder dar con el en tiempo real para ir a buscarlo y alcanzarlo.
- |Alta|4 semanas o más|Desarrollando una aplicación que nos permita probar el sensor GPS|Andrea Trujillo Azpeitia|
-| | | | | | |
+| Id | Historias de Usuario                                                                                                                    | Prioridad | Estimación    | Como probarlo                                                     | Responsable                  |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------|-------------------------------------------------------------------|------------------------------|
+| 1  | Quiero poder conocer el ambiente en el que se encuentra mi mascota  en caso de que se pierda.                                           | Alta      | 3 semanas     | Aumentando temperatura y humedad                                  | Erik Daniel Mendez Enriquez  |
+| 2  | Quiero poder saber si mi mascota se encuentra en peligro de intoxicación o si  el ambiente que lo rodea hay peligro de una fuga de gas. | Alta      | 2 a 3 semanas | Usando un gas de manera controlada cerca del sensor               | Oscar Iván Pérez Mejía       |
+| 3  | Quiero conocer si mi mascota corre el riesgo de sufrir algún daño por  quemadura mientras no me encuentro con él.                       | Alta      | 3 semanas     | Exponiendo el proyecto a una llama controlada                     | Alyne Elizabeth Rojas Gloria |
+| 4  | En caso de perder a mi mascota quiero poder dar con el en tiempo  real para ir a buscarlo y alcanzarlo.                                 | Alta      | 3 semanas     | Desarrollando una aplicación que nos permita probar el sensor GPS | Andrea Trujillo Azpeitia     |
 
 ## Boceto
 
